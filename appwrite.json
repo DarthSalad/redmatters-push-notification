@@ -1,0 +1,21 @@
+{
+    "projectId": "6489b94aebd49e04665a",
+    "projectName": "redmatters",
+    "functions": [
+        {
+            "$id": "648ac317026cb83d2e6e",
+            "name": "emergency-notification",
+            "runtime": "node-16.0",
+            "path": "functions/emergency-notification",
+            "entrypoint": "src/index.js",
+            "ignore": [
+                "node_modules",
+                ".npm"
+            ],
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        }
+    ]
+}
